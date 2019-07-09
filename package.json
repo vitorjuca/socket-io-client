@@ -1,6 +1,6 @@
 {
   "name": "socket-io-client",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -12,5 +12,17 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "twig": "~0.10.3"
-  }
+  },
+  "description": "socket testing",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorjuca/socket-io-client.git"
+  },
+  "author": "Vitor Juca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorjuca/socket-io-client/issues"
+  },
+  "homepage": "https://github.com/vitorjuca/socket-io-client#readme"
 }

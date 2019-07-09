@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/vitorjuca/socket-io-client/issues"
   },
-  "homepage": "https://github.com/vitorjuca/socket-io-client#readme"
+  "homepage": "https://github.com/vitorjuca/socket-io-client#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
